@@ -6,21 +6,21 @@ Tested with J-Link Commander V6.48a.
 ### Start J-Link Commander
 
 ```
-sudo JLinkExe -device STM32H743ZI -if SWD -autoconnect 1 -speed auto
+root@host# JLinkExe -device STM32H743ZI -if SWD -autoconnect 1 -speed auto
 ```
 
 ### Flash firmware to target
 ```
-J-Link>loadbin nucleo-hz43zi-blinky.bin, 0x8000000
+J-Link> loadbin nucleo-hz43zi-blinky.bin, 0x8000000
 ```
 
 ### Reset target
 ```
-J-Link>r
-J-Link>g
+J-Link> r
+J-Link> g
 ```
 
 ### Exit J-Link Commander
 ```
-J-Link>q
+J-Link> q
 ```
