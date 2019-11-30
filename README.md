@@ -1,5 +1,5 @@
 ## About
-Demonstrate flashing STM32H743ZI using J-Link commander.
+Demonstrate flashing STM32H743ZI using [https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack](J-Link commander).
 
 Tested with J-Link Commander V6.48a.
 
