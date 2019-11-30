@@ -1,6 +1,8 @@
 ## About
 Demonstrate flashing STM32H743ZI using J-Link commander.
 
+Tested with J-Link Commander V6.48a.
+
 ### Start J-Link Commander
 
 ```
